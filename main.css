@@ -68,10 +68,3 @@ body {
     background: #ec0062;
 }
 
-#clock .madeBy{
-    color: #fff;
-    position: absolute;
-    margin: 140px 0;
-    text-align: center;
-    font-weight: 700;
-}
