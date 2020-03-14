@@ -72,4 +72,7 @@ body {
     color: #fff;
     position: relative;
     display: block;
+    text-align: center;
+    margin: 90px 0;
+    font-weight: 700;
 }
