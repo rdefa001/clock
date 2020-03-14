@@ -71,8 +71,7 @@ body {
 #clock .madeBy{
     color: #fff;
     position: absolute;
- 
+    margin: 10px 0;
     text-align: center;
-    top: 490px;
     font-weight: 700;
 }
