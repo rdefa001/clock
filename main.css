@@ -70,7 +70,7 @@ body {
 
 .madeBy{
     color: #fff;
-    position: relative;
+    position: absolute;
     display: block;
     text-align: center;
     top: 90px;
