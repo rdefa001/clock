@@ -68,7 +68,7 @@ body {
     background: #ec0062;
 }
 
-.madeBy{
+#clock .madeBy{
     color: #fff;
     position: absolute;
  
